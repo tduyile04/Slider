@@ -1,2 +1,0 @@
-# Slider
-Created with CodeSandbox
